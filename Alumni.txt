@@ -1,0 +1,2 @@
+Ayushi	1	CSE	7	TCS	MANAGER	2	PUNE
+Ritika	2	Electrical	7	Wipro	Manager	2	Mumbai
